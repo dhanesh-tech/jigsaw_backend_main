@@ -1,0 +1,1 @@
+export const refreshPrevettedCandidatesMaterializedViewQuery = `REFRESH MATERIALIZED VIEW prevetted_candidates_materialized_view`;
